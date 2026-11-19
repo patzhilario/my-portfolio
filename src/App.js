@@ -28,6 +28,8 @@ function App() {
             and solving real-world problems through technology. Currently working on my capstone project,
             <strong> Agapé Café POS & Ordering System</strong>, using React, Supabase, and GitHub.
             I enjoy turning ideas into functional, user-friendly websites.
+
+            
           </p>
         </div>
       </section>
@@ -74,8 +76,8 @@ function App() {
   <p><strong>Description:</strong> My personal portfolio website showcasing my skills, projects, and contact information. Built to introduce myself and display my web development journey and works.</p>
   <p><strong>Tools Used:</strong> React.js, CSS, Vercel</p>
   <p><strong>Link:</strong> 
-    <a href="https://github.com/patzhilario/my-portfolio" target="_blank" rel="noopener noreferrer">
-      View on GitHub →
+    <a href="https://patzhilario.vercel.app/" target="_blank" rel="noopener noreferrer">
+      https://patzhilario.vercel.app/
     </a>
   </p>
 </div>
